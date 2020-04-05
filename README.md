@@ -1,2 +1,3 @@
-# project template
-  - egret
+# egret template
+
+`egret template`
